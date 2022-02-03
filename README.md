@@ -2,7 +2,7 @@
 
   - Fullstack student 
   - Currently studying at Trybe
-  - To see my <a rel="noreferrer noopener" href="caiomendescm.github.io" target="_blank">portfólio</a>
+  - To see my <a rel="noreferrer noopener" href="https://caiomendescm.github.io/" target="_blank">portfólio</a>
   - Great lover of games, competition and code
   - Next steps: 
   - <img style="max-width: 100%" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img style="max-width: 100%" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img style="max-width: 100%" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
