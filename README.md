@@ -1,4 +1,4 @@
-# Hello! I'm Caio Mendes ⚡
+# Hello! I'm Caio Mendes
 
   - Fullstack student 
   - Currently studying at Trybe
@@ -19,6 +19,6 @@
 <a rel="noreferrer noopener" target="_blank" href="mailto: cacammoreno@gmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Gmail-EBEBEB?style=for-the-badge&logo=gmail&logoColor=red"></a>
 ---
 
-[![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=vision-friendly-dark)](https://github.com/caioMendesCM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=vision-friendly-dark&layout=compact)](https://github.com/caioMendesCM/github-readme-stats)
+[![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=vision-friendly-dark)](https://github.com/caioMendesCM/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=vision-friendly-dark&layout=compact)](https://github.com/caioMendesCM/github-readme-stats)
 
 <!-- créditos para a ideia: https://github.com/flash898 -->
