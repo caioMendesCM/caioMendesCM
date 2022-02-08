@@ -19,6 +19,14 @@
 <a rel="noreferrer noopener" target="_blank" href="mailto: cacammoreno@gmail.com"><img style="max-width: 100%" src="https://img.shields.io/badge/Gmail-EBEBEB?style=for-the-badge&logo=gmail&logoColor=red"></a>
 ---
 
-[![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats)
+<a href="https://github.com/caioMendesCM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark"> 
+</a>
+
+<a href="https://github.com/caioMendesCM/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark"> 
+</a>
+
+<!-- [![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats) -->
 
 <!-- créditos para a ideia: https://github.com/flash898 -->
