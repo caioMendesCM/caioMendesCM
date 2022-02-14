@@ -24,13 +24,11 @@
 <a rel="noreferrer noopener" target="_blank" href="https://api.whatsapp.com/send?phone=5521966180832"><img style="max-width: 100%" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 ---
 
-<a href="https://github.com/caioMendesCM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark"> 
-</a>
-
-<a href="https://github.com/caioMendesCM/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark"> 
-</a>
+<div align="center">
+  <a href="https://github.com/caioMendesCM">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioMendesCM&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ![Snake animation](https://github.com/caioMendesCM/caioMendesCM/blob/output/github-contribution-grid-snake.svg)
 
