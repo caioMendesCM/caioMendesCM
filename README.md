@@ -2,7 +2,7 @@
 
   - Fullstack student 
   - Currently studying at Trybe
-  - To see my <a rel="noreferrer noopener" href="https://caiomendescm.github.io/" target="_blank">portfólio</a>
+  - To see my <a rel="noreferrer noopener" target="_blank" href="https://caiomendescm.github.io/">portfólio</a>
   - Great lover of games, competition and code
   - Always learning something new 
   - Next steps: 
@@ -31,7 +31,5 @@
 </div>
 
 ![Snake animation](https://github.com/caioMendesCM/caioMendesCM/blob/output/github-contribution-grid-snake.svg)
-
-<!-- [![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats) -->
 
 <!-- créditos para a ideia: https://github.com/flash898 -->
