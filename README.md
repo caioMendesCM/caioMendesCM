@@ -31,5 +31,3 @@
 </div>
 
 ![Snake animation](https://github.com/caioMendesCM/caioMendesCM/blob/output/github-contribution-grid-snake.svg)
-
-<!-- créditos para a ideia: https://github.com/flash898 -->
