@@ -17,9 +17,6 @@
 <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img style="width: 48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
-
-
-
 ## Contact 📪
 
 <a rel="noreferrer noopener" target="_blank" href="https://www.linkedin.com/in/caio-mendes-74a368222/"><img style="max-width: 100%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -34,6 +31,8 @@
 <a href="https://github.com/caioMendesCM/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark"> 
 </a>
+
+![Snake animation](https://github.com/caioMendesCM/caioMendesCM/blob/output/github-contribution-grid-snake.svg)
 
 <!-- [![caioMendesCM's GitHub stats](https://github-readme-stats.vercel.app/api?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioMendesCM&theme=github_dark)](https://github.com/caioMendesCM/github-readme-stats) -->
 
