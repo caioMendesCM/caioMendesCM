@@ -1,8 +1,7 @@
 # Hello! I'm Caio Mendes
 
   - Fullstack student 
-  - Currently studying at Trybe
-<!--   - To see my <a rel="noreferrer noopener" target="_blank" href="https://caiomendescm.github.io/">portfólio</a> (under construcion XD) -->
+  - Currently studying at Trybe <!--   - To see my <a rel="noreferrer noopener" target="_blank" href="https://caiomendescm.github.io/">portfólio</a> (under construcion XD) -->
   - Great lover of games, competition and code
   - Always learning something new 
   - Next steps: 
